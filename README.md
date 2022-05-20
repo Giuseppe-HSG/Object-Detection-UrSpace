@@ -4,7 +4,7 @@ We trained our custom detection model which is able to identify the various clas
 
 ## Try it Yourself!
 
-The **Final Object Detection Model** Notebook allows you to run the model yourself. The **Room Configurations to test** folder has a number of configurations to try the model with. 
+The **Final Object Detection Model** Notebook allows you to run the model yourself. The **Room Configurations to test** folder has a number of configurations to try the model with. In addition, you can create your own configuration on Homestyler and run it in the detection model.
 
 ## Full Trained Model
 

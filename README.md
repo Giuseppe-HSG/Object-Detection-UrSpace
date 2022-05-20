@@ -20,4 +20,6 @@ The **Yolov4 - configuration files** has all the documents used to configure our
 
 ### Backup Folder
 
-The folder with the backup of the weights we used to train the neural network was too large to be uploaded on Github. Therefore, the link is: https://drive.google.com/drive/folders/18nXYf1IhEG7amUW1e7H6iDZcpJTHkCHB?usp=sharing
+The folder with the backup of the weights we used to train the neural network was too large to be uploaded on Github. Therefore, the link is:(https://drive.google.com/drive/u/0/folders/1d1O_AeN0GWnEwBUJfPo9i3BCQ1bHkc8m)
+
+The link to all the documents on Google Drive is: https://drive.google.com/drive/folders/1_mqlNtqyU-URfvZBQiDwX6uKofE734rF?usp=sharing
